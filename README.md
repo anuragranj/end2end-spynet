@@ -3,6 +3,12 @@ It is a 5-level end-to-end spynet. The EPE on Flying Chairs is 2.77 compared to 
 
 Next version will contain 6-level end-to-end spynet.
 
+#### Prerequisites
+Install warping layer.
+
+    cd extras/spybhwd
+    luarocks make
+
 #### Demo
 
     th demo.lua
