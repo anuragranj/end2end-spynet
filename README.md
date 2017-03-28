@@ -6,7 +6,7 @@ Next version will contain 6-level end-to-end spynet.
 #### Prerequisites
 Install warping layer.
 
-    cd extras/spybhwd
+    cd extras/stnbhwd
     luarocks make
 
 #### Demo
