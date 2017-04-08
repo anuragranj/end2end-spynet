@@ -12,3 +12,6 @@ Install warping layer.
 #### Demo
 
     th demo.lua
+
+### References
+Ranjan, Anurag, and Michael J. Black. "Optical Flow Estimation using a Spatial Pyramid Network." arXiv preprint arXiv:1611.00850 (2016).
